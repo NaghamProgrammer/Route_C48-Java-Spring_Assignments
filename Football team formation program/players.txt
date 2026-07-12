@@ -1,0 +1,60 @@
+1,Mohamed El Shenawy,36,Tall,Leader,Smart,Strong
+2,Mohamed Sobhy,26,Tall,Smart,Fast
+3,Mostafa Shobeir,24,Tall,Leader,Smart,Fast
+4,Ahmed Hegazy,34,Smart,Strong,Fast,Leader
+5,Ramy Rabia,32,Strong,Smart,Fast
+6,Mohamed Abdelmonem,25,Strong,Smart,Fast
+7,Yasser Ibrahim,31,Strong,Smart,Leader
+8,Omar Kamal,30,Fast,Strong,Smart
+9,Ahmed Fatouh,26,Fast,Dribbler,Passer
+10,Mohamed Hany,29,Fast,Strong,Smart
+11,Marwan Attia,26,Passer,HighIQ,FastPace,Smart
+12,Hamdy Fathy,31,Passer,HighIQ,Strong
+13,Emam Ashour,27,Passer,Dribbler,FastPace,HighIQ
+14,Ahmed Sayed Zizo,29,Passer,Dribbler,FastPace
+15,Mohamed Magdy Afsha,29,Passer,HighIQ,Leader
+16,Nabil Emad Dunga,29,Strong,Passer,HighIQ
+17,Ahmed Nabil Koka,24,Passer,FastPace,Dribbler
+18,Mahmoud Saber,23,Passer,HighIQ,FastPace
+19,Omar Marmoush,27,Witty,Observant,Maneuverer,FastPace
+20,Mostafa Mohamed,28,Witty,Strong,Observant
+21,Ahmed Sayed,24,Witty,Maneuverer,Fast
+22,Mostafa Fathi,31,Dribbler,Witty,Maneuverer
+23,Ibrahim Adel,24,Dribbler,Witty,Observant
+24,Mohamed Sherif,29,Witty,Observant,Maneuverer
+25,Hossam Hassan,22,Tall,Leader,Smart
+26,Ali Mahmoud,20,Strong,Fast,Smart
+27,Youssef Tarek,21,Passer,HighIQ,FastPace
+28,Karim Adel,22,Witty,Observant,Maneuverer
+29,Ahmed Adel,23,Smart,Strong
+30,Omar Hassan,19,Passer,Dribbler
+31,Mostafa Ali,20,Tall,Smart
+32,Mohamed Reda,24,Strong,Fast
+33,Karim Samir,21,Passer,FastPace
+34,Yassin Ashraf,20,Witty,Observant
+35,Amr Nasser,22,Leader,Strong
+36,Adham Hany,23,Dribbler,Passer
+37,Seif Mohamed,21,Fast,Smart
+38,Ziad Ahmed,24,Witty,Maneuverer
+39,Mahmoud Ali,22,HighIQ,Passer
+40,Ahmed Khaled,20,Tall,Leader
+41,Youssef Ahmed,23,Strong,Fast,Smart
+42,Omar Fawzy,21,Passer,Dribbler,FastPace
+43,Karim Fathy,22,Witty,Observant,Maneuverer
+44,Ali Reda,19,Strong,Leader
+45,Mohamed Ashraf,20,Tall,Smart,Leader
+46,Hassan Tarek,21,Fast,Strong
+47,Mostafa Adel,22,Passer,HighIQ
+48,Ahmed Nasser,23,Dribbler,FastPace
+49,Youssef Ali,20,Witty,Maneuverer
+50,Karim Hassan,24,Observant,Witty
+51,Amr Mohamed,22,Tall,Smart
+52,Ali Samir,21,Strong,Fast
+53,Omar Tarek,20,Passer,HighIQ,Dribbler
+54,Ahmed Wael,19,Witty,Observant
+55,Ziad Mostafa,23,Maneuverer,Witty
+56,Karim Reda,24,Leader,Strong,Smart
+57,Hossam Ali,20,Fast,Passer
+58,Seif Adel,21,Dribbler,HighIQ
+59,Mohamed Khaled,22,Observant,Maneuverer
+60,Ahmed Fawzy,19,Tall,Leader,Smart,Fast
