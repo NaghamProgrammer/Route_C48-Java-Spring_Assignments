@@ -62,10 +62,14 @@ public class Main {
 
         //data like number of subjects is usually fixed in the program
         int numOfSubjects = 3;
+        int numOfStudents = 0;
 
         //take number of students
-        System.out.print("Please enter the number of students: ");
-        int numOfStudents = sc.nextInt();
+        do {
+            System.out.print("Please enter the number of students: ");
+            numOfStudents = sc.nextInt();
+            if(numOfStudents <= 0){System.out.println("Please enter a positive integer");}
+        } while (numOfStudents <= 0);
 
         studentNames = new String[numOfStudents];
         studentGrades = new int[numOfStudents][numOfSubjects];
