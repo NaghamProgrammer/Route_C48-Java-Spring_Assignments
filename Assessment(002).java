@@ -79,8 +79,17 @@ public class Main {
         //take each student name and his 3 subject grades
         for(int i = 0; i<numOfStudents ; i++){
 
-            System.out.print("Enter Student name " + (i + 1) + ": ");
-            studentNames[i] = sc.next();
+            do {
+                System.out.print("Enter Student name " + (i + 1) + ": ");
+                studentNames[i] = sc.next();
+
+                if (nameExists(studentNames[i], i)) {
+                    System.out.println("This name already exists. Please enter another name.");
+                }
+
+            } while (nameExists(studentNames[i], i));
+
+
 
             for(int j = 0; j<numOfSubjects; j++){
                 int grade;
@@ -226,5 +235,13 @@ public class Main {
         return grade >= 0 && grade <= 100;
     }
 
+    static public boolean nameExists(String name, int currentStudents) {
+        for (int i = 0; i < currentStudents; i++) {
+            if (studentNames[i].equalsIgnoreCase(name)) {
+                return true;
+            }
+        }
+        return false;
+    }
 
 }
